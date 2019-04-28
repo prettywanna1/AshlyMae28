@@ -1,0 +1,288 @@
+body{
+	background-image:url(../images/1.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	margin:10px;
+	text-align:center;
+}
+.header{
+	padding: 20px;
+	margin-bottom: 10px;
+	font-family: Algerian;
+	font-size: 20px;
+}
+.menu {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 30px;
+	padding: 0;
+	text-align:center;
+	list-style: none;
+}
+.menu .button {
+	padding: 10px;
+    color:	#4B0082;
+	font-size: 20px;
+    text-align: center;
+	font-family: Lucida Handwriting;
+    list-style: none;
+	background-image:url(../images/5.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+}
+a{
+	text-decoration: none;
+}
+p{
+	text-indent: 10px;
+	font-size: 20px;
+}
+
+.first{
+	display: grid;
+	grid-template-columns: 1fr 2fr ;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.second{
+	display: grid;
+	grid-template-columns: 2fr  1fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.third{
+	display: grid;
+	grid-template-columns: 1fr  2fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.fourth {
+	display: grid;
+	grid-template-columns: 2fr  1fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.fifth{
+	display: grid;
+	grid-template-columns: 1fr  2fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.six{
+	display: grid;
+	grid-template-columns: 2fr  1fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.seven {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.eight{
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+}
+.nine {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 10px;
+	padding: 20px;
+	height: 200px;
+
+}
+.b1{	
+    background-image:url(../images/lunc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b2{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b3{	
+    background-image:url(../images/balc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b4{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b5{	
+    background-image:url(../images/suc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b6{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b7{	
+    background-image:url(../images/sc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b8{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.b9{	
+   	background-image:url(../images/sjc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church1{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+	position: relative;
+}
+.church2{	
+   	background-image:url(../images/sfcc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church3{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church4{	
+   	background-image:url(../images/banc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church5{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church6{	
+   	background-image:url(../images/bacc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church7{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church8{	
+   	background-image:url(../images/sgc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+.church9{	
+    background-image:url(../images/pink.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:10px;
+	text-align:center;
+}
+
+.footer{
+	background-image:url(../images/pur.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	padding: 15px;
+	margin:10px;
+	text-align:center;
+}
+.footer{
+	background-image:url(../images/pur.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	padding: 15px;
+	margin:10px;
+	text-align:center;
+}

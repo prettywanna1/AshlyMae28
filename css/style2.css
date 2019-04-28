@@ -1,0 +1,153 @@
+body{
+	background-image:url(../images/1.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	margin:10px;
+	text-align:center;
+}
+.header{
+	padding: 20px;
+	margin-bottom: 10px;
+	font-family: Algerian;
+	font-size: 20px;
+}
+.menu {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 30px;
+	padding: 0;
+	text-align:center;
+	list-style: none;
+}
+.menu .button {
+	padding: 10px;
+    color:	#4B0082;
+	font-size: 20px;
+    text-align: center;
+	font-family: Lucida Handwriting;
+    list-style: none;
+	background-image:url(../images/5.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+}
+a{
+	text-decoration: none;
+}
+.box2{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap:20px;
+	height: 200px;
+}
+.bangar{	
+    background-image:url(../images/ban.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.luna{
+	background-image:url(../images/luna.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.sudipen{
+	background-image:url(../images/sudi.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.balaoan{	
+   background-image:url(../images/bala.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.santol{	
+    background-image:url(../images/sant.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.bacnotan{	
+    background-image:url(../images/bac.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.sg{	
+   background-image:url(../images/sg.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.sj{	
+    background-image:url(../images/sj.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.sfc{	
+   background-image:url(../images/sfc.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	height: 200px;
+	margin:5px;
+	text-align:center;
+}
+.box3{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	height: 200px;
+	grid-gap: 20px;
+	margin-top: 20px;
+}
+.box4{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	height: 200px;
+	grid-gap: 20px;
+	margin-top: 20px;
+}
+.footer{
+	background-image:url(../images/pur.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	padding: 15px;
+	margin:10px;
+	text-align:center;
+}
+h1 {
+	position: relative;
+	top: 70%;
+	bottom: 5px;
+	color: #DC143C;
+}

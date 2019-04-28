@@ -1,0 +1,137 @@
+body{
+	background-image:url(../images/1.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	margin:10px;
+	text-align:center;
+}
+.header{
+	padding: 20px;
+	margin-bottom: 10px;
+	font-family: Algerian;
+	font-size: 20px;
+}
+.menu {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 30px;
+	padding: 0;
+	text-align:center;
+	list-style: none;
+}
+.menu .button {
+	padding: 10px;
+    color:	#4B0082;
+	font-size: 20px;
+    text-align: center;
+	font-family: Lucida Handwriting;
+    list-style: none;
+	background-image:url(../images/5.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+}
+a{
+	text-decoration: none;
+}
+.container {
+	display: grid;
+	grid-template-columns: 1fr 2fr ;
+	grid-gap: 20px;
+	padding: 20px;
+	height: 200px;
+}
+.logo{
+	background-image:url(../images/2.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 200px;
+	border: #870A98 5px solid;
+}
+.explore{
+	margin-top: 5px;
+	background:#FFDAB9;
+	padding: 35px;
+	border: #870A98 5px solid;
+	color: #870A98;
+}
+
+.vision{
+	background-image:url(../images/3.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 200px;
+	
+}
+.mission{
+	background-image:url(../images/4.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 200px;
+}
+.congressman{
+	background-image:url(../images/6.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 500px;
+	border: #870A98 5px solid;
+	margin-top:200px;
+}
+.box{
+	margin-top: 10px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap:20px;
+	height: 200px;
+}
+.history{	
+    background-image:url(../images/pur.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 400px;
+	margin: 10px;
+	text-indent: 10px;
+	color: #870A98;
+}
+.list{
+	background-image:url(../images/pur.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 400px;
+	margin: 10px;
+	text-indent: 10px;
+	color: #870A98;
+}
+li {
+	text-decoration: none;
+	float: center;
+	list-style: none;
+	font-size: 30px;
+	text-align: center;
+}
+
+.slideshow {
+	background-image:url(../images/slide.gif);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center; 
+	height: 400px;
+	margin-top: 10px;
+		border: #870A98 5px solid;
+}
+.footer{
+	background-image:url(../images/pur.jpg);
+	background-size: cover;
+	background-repeat: repeat ;
+	background-position: center;
+	padding: 15px;
+	margin-top: 200px;
+	text-align:center;
+}
